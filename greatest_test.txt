@@ -1,0 +1,14 @@
+
+-------------------------------------------
+
+puts "enter number to check whether an number is even or odd"
+input=gets.chomp.to_i
+
+
+if input % 2==0
+puts "#{input} is an even number"
+
+else
+puts "#{input} is an odd number"
+end
+--------------------------------------------------
