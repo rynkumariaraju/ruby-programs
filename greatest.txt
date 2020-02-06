@@ -1,4 +1,4 @@
-
+puts "hi"
 -------------------------------------------
 
 puts "enter number to check whether an number is even or odd"
